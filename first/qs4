@@ -1,0 +1,2 @@
+school= "Deutirhat high school"
+print(school)
