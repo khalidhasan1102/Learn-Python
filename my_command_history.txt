@@ -101,3 +101,4 @@
 28-03-2026 12:23:51   18  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/basic.py
 28-03-2026 12:23:51   18  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/basic.py
 28-03-2026 12:24:06   19  push "for loop"
+28-03-2026 12:24:40   20  push "ifelse"
