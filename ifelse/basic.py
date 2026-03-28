@@ -1,13 +1,9 @@
-age = 30
+a=1
+b=2
+c=2.5
+result=a+b+c
+print("the total number is", result)
+print(f"the sum of the number is {result}")
 
-if age >= 60:
-    print("Bura")
-elif age >= 17:
-    print("Balok 17")
-elif age >= 18:
-    print("Balok 18")
-elif age >= 14:
-    print("Balok 15")
-else:
-    print("Baccha")
-
+print(f" this is khalid hasan, his age is {b} he read in class {b}")
+print("this is khalid hasan, his age is",b)

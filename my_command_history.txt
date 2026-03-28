@@ -48,3 +48,55 @@
 15-02-2026 16:24:42   22  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/QS2.py
 15-02-2026 16:24:43   22  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/QS2.py
 15-02-2026 16:24:53   23  push
+15-02-2026 16:26:02   24  push "ifelse"
+15-02-2026 16:30:05   25  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+15-02-2026 16:32:39   26  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+15-02-2026 16:34:14   27  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+15-02-2026 16:34:25   28  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+15-02-2026 16:34:36   29  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+15-02-2026 16:34:57   30  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+15-02-2026 16:35:13   31  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+15-02-2026 16:35:33   32  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+15-02-2026 16:35:52   33  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+15-02-2026 16:36:09   34  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+15-02-2026 16:37:03   35  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+15-02-2026 16:39:10   36  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+15-02-2026 16:39:50   37  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+15-02-2026 16:40:16   38  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+15-02-2026 16:42:51   39  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/mod7.py
+15-02-2026 16:43:34   40  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/mod7.py
+15-02-2026 16:44:29   41  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/mod7.py
+15-02-2026 16:44:46   42  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/mod7.py
+15-02-2026 16:44:55   43  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/mod7.py
+15-02-2026 16:45:05   44  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/mod7.py
+15-02-2026 16:45:20   45  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/mod7.py
+15-02-2026 16:46:36
+15-02-2026 16:46:42
+15-02-2026 16:46:43    1  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+15-02-2026 16:47:35    2  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+28-03-2026 11:41:57
+28-03-2026 11:42:00
+28-03-2026 11:42:44
+28-03-2026 11:42:45    1  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+28-03-2026 11:48:12    1  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+28-03-2026 11:48:36    2  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 11:51:39    3  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 11:53:17    4  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 11:56:38    4  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 11:56:39    4  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 11:56:50    5  push
+28-03-2026 11:59:07    6  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/basic.py
+28-03-2026 11:59:44    7  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/basic.py
+28-03-2026 11:59:57    8  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/basic.py
+28-03-2026 12:00:53    9  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/basic.py
+28-03-2026 12:02:45   10  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/basic.py
+28-03-2026 12:03:14   11  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/basic.py
+28-03-2026 12:03:32   12  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/basic.py
+28-03-2026 12:03:40   13  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/basic.py
+28-03-2026 12:04:54   14  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/basic.py
+28-03-2026 12:05:01   15  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/basic.py
+28-03-2026 12:05:19   16  push
+28-03-2026 12:14:41   17  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/basic.py
+28-03-2026 12:17:01   18  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/basic.py
+28-03-2026 12:23:51   18  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/basic.py
+28-03-2026 12:23:51   18  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/basic.py
