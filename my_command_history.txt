@@ -102,3 +102,76 @@
 28-03-2026 12:23:51   18  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/basic.py
 28-03-2026 12:24:06   19  push "for loop"
 28-03-2026 12:24:40   20  push "ifelse"
+28-03-2026 12:25:15   21  push "ifelse"
+28-03-2026 12:35:45   22  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 12:37:25   23  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 12:40:56   24  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 12:40:57   25  C:\Users\user\AppData\Local\Python\pythoncore-3.14-64\python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 12:41:10   26  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 12:42:10   27  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 12:42:24   28  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 12:44:31   29  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 12:45:39   30  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 12:47:10   31  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 12:47:22   32  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 12:48:24   33  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 12:54:05   34  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 12:57:33   35  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 12:58:15   36  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 12:59:14   37  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 12:59:26   38  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:07:25   39  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:07:47   40  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:09:02   41  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:09:22   42  print
+28-03-2026 13:11:31   43  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:15:04   44  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:20:19   45  push"result"
+28-03-2026 13:20:32   46  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:20:51   47  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:21:56   48  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:22:09   49  grade=70
+28-03-2026 13:22:20   50  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:24:12   51  push
+28-03-2026 13:25:29   52  push"result"
+28-03-2026 13:25:52   53  push"practice"
+28-03-2026 13:27:55   54  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:27:55   55  C:\Users\user\AppData\Local\Python\pythoncore-3.14-64\python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:28:11   56  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:33:20   57  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:33:21   58  C:\Users\user\AppData\Local\Python\pythoncore-3.14-64\python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:37:17   59  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:37:31   60  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:38:15   81  turtle.done()
+28-03-2026 13:38:34   82  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:39:06   83  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:39:34   84  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:39:39   85  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:40:30   86  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:40:34   87  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 13:42:35   88  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/ifelse/Practice.py
+28-03-2026 19:27:33
+28-03-2026 19:27:33
+28-03-2026 19:27:35
+28-03-2026 19:32:48
+28-03-2026 19:32:49    1  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+28-03-2026 19:33:39    2  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+28-03-2026 19:35:20    3  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+28-03-2026 19:35:57    4  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+28-03-2026 19:36:08    5  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/loop/for_loop.py
+28-03-2026 19:50:54    6  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/Turtle/turtle.py
+28-03-2026 19:52:48    7  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/Turtle/turtle_practice.py
+28-03-2026 19:53:10    8  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/Turtle/turtle_practice.py
+28-03-2026 19:53:28    9  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/Turtle/turtle_practice.py
+28-03-2026 19:53:41   10  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/Turtle/turtle_practice.py
+28-03-2026 19:53:55   11  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/Turtle/turtle_practice.py
+28-03-2026 19:55:02   12  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/Turtle/turtle_practice.py
+28-03-2026 19:55:45   13  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/Turtle/turtle_practice.py
+28-03-2026 19:56:20   14  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/Turtle/turtle_practice.py
+28-03-2026 19:56:33   15  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/Turtle/turtle_practice.py
+28-03-2026 19:57:01   16  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/Turtle/turtle_practice.py
+28-03-2026 19:57:14   17  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/Turtle/turtle_practice.py
+28-03-2026 19:57:57   18  pursh"turtle"
+28-03-2026 19:58:26   18  pursh"turtle"
+28-03-2026 19:58:36   19  C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe d:/GitHub/Learn-Python/Turtle/turtle_practice.py
+28-03-2026 20:01:28   20  push"ok"
